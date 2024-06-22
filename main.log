@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.3.13)  21 JUN 2024 23:20
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.3.13)  22 JUN 2024 18:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -474,7 +474,7 @@ File: img/ola.jpg Graphic file (type bmp)
 ]
 
 LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <10.53937> not available
-(Font)              size <10.95> substituted on input line 45.
+(Font)              size <10.95> substituted on input line 48.
 
 [2]
 File: img/3-7.jpg Graphic file (type bmp)
@@ -485,12 +485,12 @@ File: img/4-2.jpg Graphic file (type bmp)
 File: img/4-18.jpg Graphic file (type bmp)
 <img/4-18.jpg>
  [5]
-Underfull \hbox (badness 10000) in paragraph at lines 183--187
+Underfull \hbox (badness 10000) in paragraph at lines 186--190
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 199--201
+Underfull \hbox (badness 10000) in paragraph at lines 202--204
 
  []
 
@@ -498,7 +498,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 199--201
 File: img/4-30.jpg Graphic file (type bmp)
 <img/4-30.jpg>
  [7] [8]
-Overfull \hbox (7.78458pt too wide) in paragraph at lines 266--270
+Overfull \hbox (7.78458pt too wide) in paragraph at lines 269--273
 \TU/HarmonyOSSansSC(0)/m/n/10.53937 由 于 我 们 认 为 $\OMS/cmsy/m/n/10.53937 j\OML/cmm/m/it/10.53937 ![] \OT1/cmr/m/n/10.53937 + \OML/cmm/m/it/10.53937 ![]\OMS/cmsy/m/n/10.53937 j ^^] j\OML/cmm/m/it/10.53937 ![] \OMS/cmsy/m/n/10.53937 ^^@ \OML/cmm/m/it/10.53937 ![]\OMS/cmsy/m/n/10.53937 j$\TU/HarmonyOSSansSC(0)/m/n/10.53937 ，|  故 我 们 将 式 子 中 的 $\OMS/cmsy/m/n/10.53937 j\OT1/cmr/m/n/10.53937 2\OML/cmm/m/it/10.53937 A []\OT1/cmr/m/n/10.53937 ([])\OMS/cmsy/m/n/10.53937 j$
  []
 
