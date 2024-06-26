@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.3.13)  22 JUN 2024 18:31
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.3.13)  26 JUN 2024 23:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -474,131 +474,139 @@ File: img/ola.jpg Graphic file (type bmp)
 ]
 
 LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <10.53937> not available
-(Font)              size <10.95> substituted on input line 48.
+(Font)              size <10.95> substituted on input line 46.
 
+File: img/yuan.jpg Graphic file (type bmp)
+<img/yuan.jpg>
 [2]
+File: img/zhi.jpg Graphic file (type bmp)
+<img/zhi.jpg>
+ [3]
 File: img/3-7.jpg Graphic file (type bmp)
 <img/3-7.jpg>
- [3] [4]
+ [4] [5]
 File: img/4-2.jpg Graphic file (type bmp)
 <img/4-2.jpg>
 File: img/4-18.jpg Graphic file (type bmp)
 <img/4-18.jpg>
- [5]
-Underfull \hbox (badness 10000) in paragraph at lines 186--190
+ [6]
+Underfull \hbox (badness 10000) in paragraph at lines 205--209
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 202--204
+Underfull \hbox (badness 10000) in paragraph at lines 221--223
 
  []
 
-[6]
+[7]
 File: img/4-30.jpg Graphic file (type bmp)
 <img/4-30.jpg>
- [7] [8]
-Overfull \hbox (7.78458pt too wide) in paragraph at lines 269--273
+ [8] [9]
+Overfull \hbox (7.78458pt too wide) in paragraph at lines 288--292
 \TU/HarmonyOSSansSC(0)/m/n/10.53937 由 于 我 们 认 为 $\OMS/cmsy/m/n/10.53937 j\OML/cmm/m/it/10.53937 ![] \OT1/cmr/m/n/10.53937 + \OML/cmm/m/it/10.53937 ![]\OMS/cmsy/m/n/10.53937 j ^^] j\OML/cmm/m/it/10.53937 ![] \OMS/cmsy/m/n/10.53937 ^^@ \OML/cmm/m/it/10.53937 ![]\OMS/cmsy/m/n/10.53937 j$\TU/HarmonyOSSansSC(0)/m/n/10.53937 ，|  故 我 们 将 式 子 中 的 $\OMS/cmsy/m/n/10.53937 j\OT1/cmr/m/n/10.53937 2\OML/cmm/m/it/10.53937 A []\OT1/cmr/m/n/10.53937 ([])\OMS/cmsy/m/n/10.53937 j$
  []
 
-[9] [10]
+[10] [11]
 File: img/10-13.jpg Graphic file (type bmp)
 <img/10-13.jpg>
 File: img/10-15.jpg Graphic file (type bmp)
 <img/10-15.jpg>
- [11] [12]
+ [12] [13]
 File: img/14.jpg Graphic file (type bmp)
 <img/14.jpg>
- [13] [14]
+ [14] [15]
 File: img/5-8.jpg Graphic file (type bmp)
 <img/5-8.jpg>
 File: img/5-9.jpg Graphic file (type bmp)
 <img/5-9.jpg>
- [15]
+ [16]
 File: img/5-10.jpg Graphic file (type bmp)
 <img/5-10.jpg>
 File: img/5-12.jpg Graphic file (type bmp)
 <img/5-12.jpg>
 File: img/5-22.jpg Graphic file (type bmp)
 <img/5-22.jpg>
- [16]
+ [17]
 File: img/5-23.jpg Graphic file (type bmp)
 <img/5-23.jpg>
 File: img/rho.png Graphic file (type bmp)
 <img/rho.png>
- [17]
+ [18]
 File: img/linerho.png Graphic file (type bmp)
 <img/linerho.png>
- [18]
+ [19]
 File: img/5-31.jpg Graphic file (type bmp)
 <img/5-31.jpg>
 File: img/x5-20.jpg Graphic file (type bmp)
 <img/x5-20.jpg>
- [19]
+ [20]
 File: img/6-6.jpg Graphic file (type bmp)
 <img/6-6.jpg>
 File: img/6-14.jpg Graphic file (type bmp)
 <img/6-14.jpg>
- [20]
+ [21]
 File: img/6-18.jpg Graphic file (type bmp)
 <img/6-18.jpg>
 File: img/6-19.jpg Graphic file (type bmp)
 <img/6-19.jpg>
- [21]
+ [22]
 File: img/6-20.jpg Graphic file (type bmp)
 <img/6-20.jpg>
 File: img/6-16.jpg Graphic file (type bmp)
 <img/6-16.jpg>
- [22] [23]
+ [23] [24]
 File: img/7-12.jpg Graphic file (type bmp)
 <img/7-12.jpg>
- [24]
+ [25]
 File: img/7-13.jpg Graphic file (type bmp)
 <img/7-13.jpg>
 File: img/7-15.jpg Graphic file (type bmp)
 <img/7-15.jpg>
- [25]
+ [26]
 File: img/7-18.jpg Graphic file (type bmp)
 <img/7-18.jpg>
 File: img/7-25.jpg Graphic file (type bmp)
 <img/7-25.jpg>
- [26]
+ [27]
 File: img/7-24.jpg Graphic file (type bmp)
 <img/7-24.jpg>
- [27]
+ [28]
+File: img/ci.png Graphic file (type bmp)
+<img/ci.png>
+ [29]
 File: img/7-36.jpg Graphic file (type bmp)
 <img/7-36.jpg>
- [28]
 File: img/7-40.jpg Graphic file (type bmp)
 <img/7-40.jpg>
+ [30]
 File: img/7-42.jpg Graphic file (type bmp)
 <img/7-42.jpg>
- [29] [30]
+ [31]
 File: img/8-10.jpg Graphic file (type bmp)
 <img/8-10.jpg>
- [31]
+ [32]
 File: img/8-24.jpg Graphic file (type bmp)
 <img/8-24.jpg>
- [32]
+ [33]
 File: img/8-21.jpg Graphic file (type bmp)
 <img/8-21.jpg>
- [33]
+ [34]
 File: img/source.jpg Graphic file (type bmp)
 <img/source.jpg>
- [34] (./main.aux)
+ [35] [36] (./main.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.41063pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 9338 strings out of 476683
- 257062 string characters out of 5804929
+ 9362 strings out of 476683
+ 257419 string characters out of 5804929
  1855012 words of memory out of 5000000
- 29418 multiletter control sequences out of 15000+600000
+ 29439 multiletter control sequences out of 15000+600000
  520939 words of font info for 100 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,16n,97p,359b,313s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (34 pages).
+Output written on main.pdf (36 pages).

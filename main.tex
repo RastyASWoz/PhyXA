@@ -27,12 +27,10 @@
 如果因为笔记的错误记错了什么丢分的话，
 找阿giao会帮你补的。
 莲祝你食用愉快。项目已经开源，地址：https://github.com/RastyASWoz/PhyXA.git
+修正了一些错误。
 
 
-v1.1修正内容：修复了部分的typo。鸣谢@alphabet 找出的typo，鸣谢@Zjl37 提供的排版建议。
-
-
-v1.2修正内容：修复了多普勒效应里面的错误，鸣谢@一块肥皂找出的错误。
+鸣谢@alphabet，鸣谢@Zjl37，鸣谢@一块肥皂，鸣谢@23-离殇。
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.5\textwidth]{img/lian.jpg}
@@ -66,6 +64,27 @@ $$
     \omega &= \omega_0 + \alpha t \\
     2 \alpha \theta &= \omega^2 - \omega_0^2 \\
 \end{align*}
+\subsection{圆锥摆}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{img/yuan.jpg}
+\end{figure}
+对于一个圆锥摆，有：
+\begin{align*}
+    \omega &= \sqrt{\frac{g}{l \cos \alpha}} \\
+    F &= \frac{mg}{\cos \theta}
+\end{align*}
+该模型也适用碗形摆。即在一个半球的球面上，有一个质点绕着中心运动。
+\subsection{质量分配定理}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{img/zhi.jpg}
+\end{figure}
+请自行回忆其成立的条件，在对其中任意质量的物体产生恒定的加速度，
+例如斜面，均匀粗糙的平面等。
+$$
+    F_{AB-BC} = \frac{m_{BC}}{m_{AB} + m_{BC}} F_{AB}
+$$
 \section{第三章}
 \subsection{质量相等的物体的弹性碰撞}
 当两物体发生正碰时，有：
@@ -632,9 +651,16 @@ $$
     $$
         C = 4\pi \varepsilon \frac{R_1R_2}{R_2 - R_1}
     $$
+    其储存的能量为：
+    $$
+        W_e = \frac{Q^2}{8\pi \varepsilon}\left(\frac{1}{R_1} - \frac{1}{R_2}\right)
+    $$
     特别的，当$R_2 \to \infty$时，有：
     $$
         C = 4\pi \varepsilon R_1
+    $$
+    $$
+        W_e = \frac{Q^2}{8\pi \varepsilon R_1}
     $$
     即孤立球形导体的电容。
     \item 长直导线：
@@ -791,6 +817,14 @@ $$
     $$
         B = \mu_0 n I
     $$
+    \item 无限大均匀带电（电流线密度i）平面
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.5\textwidth]{img/ci.png}
+    \end{figure}
+    $$
+        B = \frac{\mu_0 i}{2}
+    $$
 \end{itemize}
 \subsection{磁场的高斯定理}
 磁场的高斯定理为：
@@ -835,7 +869,7 @@ $$
 $$
 霍尔系数为：
 $$
-    R_H = \frac{1}{nq}
+    K_H = \frac{1}{nq}
 $$
 \subsection{载流导线在磁场中的受力}
 载流导线在磁场中的受力为：
